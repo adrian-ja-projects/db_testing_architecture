@@ -3,7 +3,7 @@
 Fleshing out thoughts for a CI/CD with automated testing for the data platform
 
 ## Overall architecture
-Placeholder for picture
+![Alt text](/images/architecture_picture.png "architecture_picture")
 
 **Zoom in**  
 
@@ -15,6 +15,8 @@ Assumptions:
 * Azure Data Factory Orchestrate the end to end pipelines
 
 # High-level CI/CD Strategy
+![Alt text](/images/Azure%20DevOps%20Release%20end%20to%20end.png "Azure Devops Release of end2end")
+
 It is a rough idea that needs details to be perfectioned but could turn into a framework with further work
 
 ## Type of testing
